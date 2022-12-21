@@ -1,6 +1,6 @@
 # flutter_flavorizr_demo
 
-A new Flutter project.
+A demo to build white-label apps by utilizing flutter_flavorizr
 
 ## Getting Started
 
